@@ -12,7 +12,7 @@ editor_options:
 ### R and RStudio
 
 Please make sure you are using the latest version of
-[R](https://cran.r-project.org/) (current version is 3.5.0 - the final
+[R](https://cran.r-project.org/) (current version is 3.5.1 - the final
 digit is the minor version number. The essential numbers are the first
 two. You can check the version of R you are running via
 
@@ -32,7 +32,21 @@ This course uses a few other packages. Run the following lines of code
 to install them.
 
 ``` r
-install.packages("sf")
-install.packages("tmap")
-install.packages("spData")
+install.packages(c("sf", "tmap", "spData", "raster", "tidyverse"))
 ```
+
+You should ensure that you have an up-to-date R installation (version
+3.5 at least) and that your packages are up-to-date. See Chapter 2 of
+the free online book *Efficient R Programming*, particularly sections
+2.3 and 2.5, for details on R installation and
+[set-up](https://csgillespie.github.io/efficientR/set-up.html). It is
+also worth learning the basics of the language, using resources such as
+“R for Data Science” or interactive guides such as
+[DataCamp](https://www.datacamp.com/courses/free-introduction-to-r)
+before proceeding.
+
+The course will be based primarily on the early chapters of the book
+Geocomputation with R. It may be worth looking at that, particularly the
+chapter on [getting
+started](http://geocompr.robinlovelace.net/spatial-class.html), before
+the course.
