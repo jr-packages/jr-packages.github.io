@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Introduction to R
+title: Codeclan
 output:
   md_document:
     variant: gfm
