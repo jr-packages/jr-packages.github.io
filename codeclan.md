@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Codeclan
+title: CodeClan
 output:
   md_document:
     variant: gfm
