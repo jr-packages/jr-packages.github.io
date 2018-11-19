@@ -45,13 +45,9 @@ If you don’t get any errors Python has been properly installed.
 1.  On whatever operating system you are on open the command line.
     Beneath are some clues as to where you might find these
 
-<!-- end list -->
-
   - Mac - Terminal application
   - Windows - Search for the Command prompt
   - Linux - Terminal
-
-<!-- end list -->
 
 2.  In the command line, run the lines of code:
 
@@ -60,9 +56,9 @@ If you don’t get any errors Python has been properly installed.
 
 3.  Open your IDE of choice and run the lines of code:
 
-<!-- end list -->
-
 ``` python
 import jrpyintroduction    
 import jrpyprogramming
 ```
+
+<!-- end list -->

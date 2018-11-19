@@ -42,7 +42,7 @@ If you don't get any errors Python has been properly installed.
 
 2. In the command line, run the lines of code:
 
-`pip install jrpyintroduction`    
+`pip install jrpyintroduction`         
 `pip install jrpyprogramming`
 
 3. Open your IDE of choice and run the lines of code:
