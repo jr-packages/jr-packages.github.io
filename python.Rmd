@@ -34,7 +34,6 @@ If you don't get any errors Python has been properly installed.
 ## Installing course packages:
 
 1. On whatever operating system you are on open the command line. Beneath are some clues as to where you might find these
-
   * Mac -  Terminal application 
   * Windows - Search for the Command prompt 
   * Linux - Terminal
