@@ -42,23 +42,21 @@ If you don’t get any errors Python has been properly installed.
 
 ## Installing course packages:
 
-1.  On whatever operating system you are on open the command line.
+  - On whatever operating system you are on open the command line.
     Beneath are some clues as to where you might find these
-
-  - Mac - Terminal application
-  - Windows - Search for the Command prompt
-  - Linux - Terminal
-
-2.  In the command line, run the lines of code:
+      - Mac - Terminal application
+      - Windows - Search for the Command prompt
+      - Linux - Terminal
+  - In the command line, run the lines of code:
 
 `pip install jrpyintroduction`  
 `pip install jrpyprogramming`
 
-3.  Open your IDE of choice and run the lines of code:
+  - Open your IDE of choice and run the lines of code:
+
+<!-- end list -->
 
 ``` python
 import jrpyintroduction    
 import jrpyprogramming
 ```
-
-<!-- end list -->
