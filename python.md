@@ -31,7 +31,12 @@ to do so are as follows
 
 6.  Run the lines of code:
 
-`import numpy` `import pandas`
+<!-- end list -->
+
+``` python
+import numpy    
+import pandas
+```
 
 If you don’t get any errors Python has been properly installed.
 
@@ -50,8 +55,14 @@ If you don’t get any errors Python has been properly installed.
 
 2.  In the command line, run the lines of code:
 
-`pip install jrpyintroduction` `pip install jrpyprogramming`
+`pip install jrpyintroduction`  
+`pip install jrpyprogramming`
 
 3.  Open your IDE of choice and run the lines of code:
 
-`import jrpyintroduction` `import jrpyprogramming`
+<!-- end list -->
+
+``` python
+import jrpyintroduction    
+import jrpyprogramming
+```
