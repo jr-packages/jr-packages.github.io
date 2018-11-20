@@ -20,7 +20,7 @@ you have the software installed on your laptop.
 ### R and RStudio
 
 Please make sure you are using the latest version of
-[R](https://cran.r-project.org/) (current version is 3.5.0 - the final
+[R](https://cran.r-project.org/) (current version is 3.5.1 - the final
 digit is the minor version number. The essential numbers are the first
 two. You can check the version of R you are running via
 
@@ -58,16 +58,6 @@ library("jrTidyverse")
 ```
 
 should run in the console window without raising any errors or warnings.
-
-Even better is that the package contains a copy of the notes, that can
-be accessed via
-
-``` r
-get_notes()
-```
-
-These notes will be updated over the next week or two if we find any
-typos.
 
 ### Pre course questionnaire
 
