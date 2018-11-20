@@ -119,4 +119,16 @@ should run in the console window without raising any errors or warnings.
 
 ### Machine Learning 14/12/2018
 
-TBA
+Run the following lines of code
+
+``` r
+install.packages("jrPred", dependencies = TRUE)
+```
+
+If everything goes to plan, the command
+
+``` r
+library("jrPred")
+```
+
+should run in the console window without raising any errors or warnings.
