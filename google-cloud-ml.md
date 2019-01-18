@@ -23,9 +23,9 @@ details to hand.
 
 The payment details are required because the “Always Free” teir of
 Google Cloud has certain restrictions and requires a valid account for
-overrage charges. Pricing is on the order of cents per hour. If you have
-free credit from signing up you will be able to use that but a valid
-payment account is still required.
+overage charges. For this course we don’t expect to spend more than a
+couple of pounds. If you have free credit from signing up you will be
+able to use that but a valid payment account is still required.
 
 Pricing for ML Compute:
 <https://cloud.google.com/ml-engine/docs/pricing>
