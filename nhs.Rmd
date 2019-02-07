@@ -73,6 +73,3 @@ If all has gone well, then running
 library("jrGgplot2")
 ```
 should give no errors. 
-
-
-`r r_studio_header()`
