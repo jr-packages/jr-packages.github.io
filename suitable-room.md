@@ -14,20 +14,26 @@ out of us when training:
 
 1.  WiFi\! The trainer and all attendees must have access to WiFi.
 
-2.  It must have a reasonable sized screen. Having a 50" tv for a team
+2.  It must have a reasonably sized screen. Having a 50" tv for a team
     of 5 might be ok, but for a team of 20 it is inadequate. A projector
     is normally best.
 
-3.  There must be a hdmi port for our laptops to plug in to, otherwise
-    we can’t show you our beautiful presentation.
+3.  Power supplies. There needs to be an adequate number of sockets for
+    everyone’s chargers (Yes, it’s happened before\!).
 
-4.  There has to be temperature control of some sort. Having 10 people,
-    their laptops and their laptop chargers in a room all day can get
-    quite, erm, sweaty.
+4.  There must be a HDMI port for our laptops to plug in to, otherwise
+    we can’t show you our beautiful presentation.
 
 5.  There needs to be enough seating for everyone and the room must be a
     decent shape. No conference tables as the people at the back have a
     very tough time seeing.
+
+6.  We like to have plenty of coffee/water breaks. There needs to be a
+    good place to restock on said things, i.e. A kitchen, cafe etc.
+
+7.  There has to be temperature control of some sort. Having 10 people,
+    their laptops and their laptop chargers in a room all day can get
+    quite, erm, sweaty.
 
 Thanks for complying, this will benefit you more than us. Look forward
 to seeing you at the course\!
