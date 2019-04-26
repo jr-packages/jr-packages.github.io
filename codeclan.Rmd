@@ -46,7 +46,7 @@ drat::addRepo("jr-packages")
 
 Depending on which codeclan course you are attending, you will need a different course package. Please scroll to the correct course and follow the instructions
 
-### Intro to R Programming 16/11/2018
+### Intro to R Programming
 
 Run the following lines of code
 
@@ -61,7 +61,7 @@ library("jrIntroduction")
 ```
 should run in the console window without raising any errors or warnings.
 
-### Data Carpentry 23/11/2018
+### Data Carpentry 
 
 Run the following lines of code
 
@@ -76,7 +76,7 @@ library("jrTidyverse")
 ```
 should run in the console window without raising any errors or warnings.
 
-### Programming 30/11/2018
+### Programming
 
 Run the following lines of code
 
@@ -90,7 +90,7 @@ If everything goes to plan, the command
 library("jrProgramming")
 ```
 
-### Visualisation 7/12/2018
+### Visualisation 
 
 Run the following lines of code
 
@@ -105,7 +105,23 @@ library("jrGgplot2")
 ```
 should run in the console window without raising any errors or warnings.
 
-### Machine Learning 14/12/2018
+## Statistical Modelling
+
+Run the following lines of code
+
+```{r, eval=FALSE}
+install.packages("jrModelling", dependencies = TRUE)
+```
+
+If everything goes to plan, the command
+
+```{r, message=FALSE}
+library("jrModelling")
+```
+should run in the console window without raising any errors or warnings.
+
+
+### Machine Learning 
 
 
 Run the following lines of code
