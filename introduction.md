@@ -21,7 +21,7 @@ connect to WiFi, then contact us before the course.
 ### R and RStudio
 
 Please make sure you are using the latest version of
-[R](https://cran.r-project.org/) (current version is 3.5.0) - the final
+[R](https://cran.r-project.org/) (current version is 3.6.1) - the final
 digit is the minor version number. The essential numbers are the first
 two. You can check the version of R you are running via
 
@@ -29,7 +29,7 @@ two. You can check the version of R you are running via
 R.version.string
 ```
 
-    ## [1] "R version 3.4.4 (2018-03-15)"
+    ## [1] "R version 3.5.3 (2019-03-11)"
 
 Please install the latest version of RStudio
 (<https://www.rstudio.com/products/rstudio/download/>).

@@ -20,7 +20,7 @@ you have the software installed on your laptop.
 ### R and RStudio
 
 Please make sure you are using the latest version of
-[R](https://cran.r-project.org/) (current version is 3.5.1 - the final
+[R](https://cran.r-project.org/) (current version is 3.6.1 - the final
 digit is the minor version number. The essential numbers are the first
 two. You can check the version of R you are running via
 
@@ -28,7 +28,7 @@ two. You can check the version of R you are running via
 R.version.string
 ```
 
-If installing the latest version is an issue, the previous version 3.4.X
+If installing the latest version is an issue, the previous version 3.5.X
 should be fine.
 
 Please install the latest version of RStudio

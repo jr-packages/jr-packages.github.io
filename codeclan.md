@@ -21,7 +21,7 @@ connect to WiFi, then contact us before the course.
 ## R
 
 Please make sure you are using the latest version of
-[R](https://cran.r-project.org/) (current version is 3.5.1) - the final
+[R](https://cran.r-project.org/) (current version is 3.6.1) - the final
 digit is the minor version number. The essential numbers are the first
 two. You can check the version of R you are running via
 
@@ -29,7 +29,7 @@ two. You can check the version of R you are running via
 R.version.string
 ```
 
-    ## [1] "R version 3.4.4 (2018-03-15)"
+    ## [1] "R version 3.5.3 (2019-03-11)"
 
 ## RStudio
 
@@ -55,7 +55,7 @@ Depending on which codeclan course you are attending, you will need a
 different course package. Please scroll to the correct course and follow
 the instructions
 
-### Intro to R Programming 16/11/2018
+### Intro to R Programming
 
 Run the following lines of code
 
@@ -71,7 +71,7 @@ library("jrIntroduction")
 
 should run in the console window without raising any errors or warnings.
 
-### Data Carpentry 23/11/2018
+### Data Carpentry
 
 Run the following lines of code
 
@@ -87,7 +87,7 @@ library("jrTidyverse")
 
 should run in the console window without raising any errors or warnings.
 
-### Programming 30/11/2018
+### Programming
 
 Run the following lines of code
 
@@ -101,7 +101,7 @@ If everything goes to plan, the command
 library("jrProgramming")
 ```
 
-### Visualisation 7/12/2018
+### Visualisation
 
 Run the following lines of code
 
@@ -117,7 +117,23 @@ library("jrGgplot2")
 
 should run in the console window without raising any errors or warnings.
 
-### Machine Learning 14/12/2018
+## Statistical Modelling
+
+Run the following lines of code
+
+``` r
+install.packages("jrModelling", dependencies = TRUE)
+```
+
+If everything goes to plan, the command
+
+``` r
+library("jrModelling")
+```
+
+should run in the console window without raising any errors or warnings.
+
+### Machine Learning
 
 Run the following lines of code
 
