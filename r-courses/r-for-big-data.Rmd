@@ -10,7 +10,7 @@ editor_options:
 ---
 
 ```{r echo=FALSE}
-source("R/functions.R")
+source("../R/functions.R")
 ```
 
 
@@ -33,3 +33,4 @@ install.packages("jrBig", dependencies = TRUE)
 sparklyr::spark_install(version="2.1.0")
 ```
 
+`r jr_footer("advanced")`

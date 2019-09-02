@@ -29,7 +29,7 @@ two. You can check the version of R you are running via
 R.version.string
 ```
 
-    ## [1] "R version 3.5.3 (2019-03-11)"
+    ## [1] "R version 3.6.1 (2019-07-05)"
 
 Please install the latest version of RStudio
 (<https://www.rstudio.com/products/rstudio/download/>).
@@ -56,4 +56,9 @@ If everything goes to plan, the command
 library("jrIntroduction")
 ```
 
-should run in the console window without raising any errors or warnings.
+should run in the console window without raising any errors or
+warnings.
+
+-----
+
+[![](/graphics/300_125.jpg)](https://www.jumpingrivers.com/?utm_source=jr-packages&utm_medium=image&utm_campaign=advanced)

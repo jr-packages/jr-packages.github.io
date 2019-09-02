@@ -29,7 +29,7 @@ two. You can check the version of R you are running via
 R.version.string
 ```
 
-    ## [1] "R version 3.5.3 (2019-03-11)"
+    ## [1] "R version 3.6.1 (2019-07-05)"
 
 ## RStudio
 

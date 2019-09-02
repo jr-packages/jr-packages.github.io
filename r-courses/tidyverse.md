@@ -9,14 +9,6 @@ editor_options:
   chunk_output_type: console
 ---
 
-We realise that we’re in a Catch-22 situation here. From our point of
-view we want you to come to the course with R and associated software
-pre-installed. From your point of view, you’re coming to the course to
-learn about R.
-
-On the day, we do have a cloud fall back, but we’ve found it better if
-you have the software installed on your laptop.
-
 ### R and RStudio
 
 Please make sure you are using the latest version of
@@ -34,11 +26,9 @@ should be fine.
 Please install the latest version of RStudio
 (<https://www.rstudio.com/products/rstudio/download/>).
 
-### Additional packages
-
 This course uses a large number of R packages that should (if possible)
-be installed before the course. After installing R & RStudio, open
-RStudio and in the **console** window
+be installed before the course. Open RStudio and in the **console**
+window
 
 ![](../graphics/tidyverse.png)
 
@@ -57,11 +47,9 @@ If everything goes to plan, the command
 library("jrTidyverse")
 ```
 
-should run in the console window without raising any errors or warnings.
+should run in the console window without raising any errors or
+warnings.
 
-### Pre course questionnaire
+-----
 
-To help the instructors prepare for the course, would please complete
-the pre-course
-[questionnaire](https://www.jumpingrivers.com/q/scotland.html). It
-should only take 60 seconds. Thanks
+[![](/graphics/300_125.jpg)](https://www.jumpingrivers.com/?utm_source=jr-packages&utm_medium=image&utm_campaign=advanced)

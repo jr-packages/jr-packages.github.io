@@ -7,7 +7,7 @@ output:
     preserve_yaml: true
 ---
 ```{r echo=FALSE}
-source("R/functions.R")
+source("../R/functions.R")
 ```
 
 We realise that we're in a Catch-22 situation here. From our point of view we want you 

@@ -9,23 +9,13 @@ editor_options:
   chunk_output_type: console
 ---
 ```{r echo=FALSE}
-source("R/functions.R")
+source("../R/functions.R")
 ```
-
-We realise that we're in a Catch-22 situation here. From our point of view we want you 
-to come to the course with R and associated software pre-installed. From your point of view, you're
-coming to the course to learn about R. 
-
-On the day, we do have a cloud fall back, but we've found it better if you have the 
-software installed on your laptop.
 
 `r r_studio_header()`
 
-
-### Additional packages
-
 This course uses a large number of R packages that should (if possible) be installed before the course. 
-After installing R & RStudio, open RStudio and in the __console__ window
+Open RStudio and in the __console__ window
 
 ![](../graphics/tidyverse.png)
 

@@ -9,7 +9,7 @@ editor_options:
   chunk_output_type: console
 ---
 ```{r echo=FALSE}
-source("R/functions.R")
+source("../R/functions.R")
 ```
 `r r_studio_header()`
 
@@ -27,3 +27,5 @@ See Chapter 2 of the free online book *Efficient R Programming*, particularly se
 It is also worth learning the basics of the language, using resources such as "R for Data Science" or interactive guides such as [DataCamp](https://www.datacamp.com/courses/free-introduction-to-r) before proceeding.
 
 The course will be based primarily on the early chapters of the book Geocomputation with R. It may be worth looking at that, particularly the chapter on [getting started](http://geocompr.robinlovelace.net/spatial-class.html), before the course. 
+
+`r jr_footer("advanced")`

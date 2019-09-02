@@ -31,7 +31,7 @@ two. You can check the version of R you are running via
 R.version.string
 ```
 
-    ## [1] "R version 3.6.0 (2019-04-26)"
+    ## [1] "R version 3.6.1 (2019-07-05)"
 
 Please install the latest version of RStudio
 (<https://www.rstudio.com/products/rstudio/download/>).

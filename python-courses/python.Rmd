@@ -7,7 +7,7 @@ output:
     preserve_yaml: true
 ---
 ```{r echo=FALSE}
-source("R/functions.R")
+source("../R/functions.R")
 ```
 
 For this course you must all have the [Anaconda distribution](https://www.anaconda.com/download/) of Python and on top of that you must download the course modules we have built. Instructions to do so are as follows

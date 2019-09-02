@@ -1,3 +1,2 @@
-fnames = list.files(pattern = "*.Rmd$", full.names = TRUE)
-fnames = fnames[-12]
+fnames = list.files(pattern = "*.Rmd$", full.names = TRUE, recursive = TRUE)
 sapply(fnames, rmarkdown::render)

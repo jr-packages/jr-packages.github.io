@@ -43,3 +43,7 @@ drat::addRepo("jr-packages")
 install.packages("jrBig", dependencies = TRUE)
 sparklyr::spark_install(version="2.1.0")
 ```
+
+-----
+
+[![](/graphics/300_125.jpg)](https://www.jumpingrivers.com/?utm_source=jr-packages&utm_medium=image&utm_campaign=advanced)

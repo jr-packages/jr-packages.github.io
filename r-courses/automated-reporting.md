@@ -41,4 +41,9 @@ The command
 library("jrAutomate")
 ```
 
-should run in the console window.
+should run in the console
+window.
+
+-----
+
+[![](/graphics/300_125.jpg)](https://www.jumpingrivers.com/?utm_source=jr-packages&utm_medium=image&utm_campaign=advanced)

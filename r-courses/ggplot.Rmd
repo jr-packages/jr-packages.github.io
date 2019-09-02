@@ -9,7 +9,7 @@ editor_options:
   chunk_output_type: console
 ---
 ```{r echo=FALSE}
-source("R/functions.R")
+source("../R/functions.R")
 ```
 
 `r r_studio_header()`
@@ -31,3 +31,5 @@ The command
 library("jrGgplot2")
 ```
 should run in the console window.
+
+`r jr_footer("advanced")`

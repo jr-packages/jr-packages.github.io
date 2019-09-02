@@ -49,4 +49,9 @@ The course will be based primarily on the early chapters of the book
 Geocomputation with R. It may be worth looking at that, particularly the
 chapter on [getting
 started](http://geocompr.robinlovelace.net/spatial-class.html), before
-the course.
+the
+course.
+
+-----
+
+[![](/graphics/300_125.jpg)](https://www.jumpingrivers.com/?utm_source=jr-packages&utm_medium=image&utm_campaign=advanced)

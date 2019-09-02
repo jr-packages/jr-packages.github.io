@@ -17,7 +17,7 @@ contact.
   - [Advanced R programming](adv-r-prog/)
   - [Automated reporting](automated-reporting/)
   - [Building an R package](package/)
-  - [Efficient R programming](efficient-r-programming)
+  - [Efficient R programming](efficient-r-programming/)
   - [Interactive graphics with Shiny](shiny/)
   - [Introduction to R](introduction/)
   - [Introduction to programming](intro-to-programming/)
@@ -27,4 +27,9 @@ contact.
   - [R for big data](r-for-big-data/)
   - [Spatial data analysis with R](spatial/)
   - [Statistical modelling](statistical-modelling/)
-  - [Why R?](why-r/)
+  - [Why
+R?](why-r/)
+
+-----
+
+[![](/graphics/300_125.jpg)](https://www.jumpingrivers.com/?utm_source=jr-packages&utm_medium=image&utm_campaign=advanced)
