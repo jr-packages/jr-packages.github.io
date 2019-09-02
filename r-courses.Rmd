@@ -15,7 +15,7 @@ Please follow the link to the course page for your course and complete the instr
   * [Advanced R programming](adv-r-prog/)
   * [Automated reporting](automated-reporting/)
   * [Building an R package](package/)
-  * [Efficient R programming](efficient-r-programming)
+  * [Efficient R programming](efficient-r-programming/)
   * [Interactive graphics with Shiny](shiny/)
   * [Introduction to R](introduction/)
   * [Introduction to programming](intro-to-programming/)
@@ -26,3 +26,5 @@ Please follow the link to the course page for your course and complete the instr
   * [Spatial data analysis with R](spatial/)
   * [Statistical modelling](statistical-modelling/)
   * [Why R?](why-r/)
+  
+`r jr_footer("advanced")`
