@@ -35,13 +35,13 @@ to install them.
 ``` r
 install.packages("drat")
 drat::addRepo("jr-packages")
-install.packages("jrModelling", dependencies = TRUE)
+install.packages("jrSpatial", dependencies = TRUE)
 ```
 
 The command
 
 ``` r
-library("jrModelling")
+library("jrSpatial")
 ```
 
 should run in the console window.
