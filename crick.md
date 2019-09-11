@@ -9,6 +9,14 @@ editor_options:
   chunk_output_type: console
 ---
 
+Hey there\! We’re looking forward to having you at the next R course,
+ran by Jumping Rivers. If you could just take a scroll to the course
+that you’ll be attending and follow the instructions. If you’re
+attending more than one course, then please complete all sets of
+instructions. Thank you\!
+
+## Introduction to R & Programming with R
+
 We realise that we’re in a Catch-22 situation here. From our point of
 view we want you to come to the course with R and associated software
 pre-installed. From your point of view, you’re coming to the course to
@@ -58,6 +66,96 @@ If everything goes to plan, the command
 ``` r
 library("jrIntroBio")
 library("jrProgBio")
+```
+
+should run in the console window without raising any errors or warnings.
+
+## Advanced Programming
+
+Run the following lines of code
+
+``` r
+install.packages("drat")
+drat::addRepo("jr-packages")
+install.packages("jrOOP", dependencies = TRUE)
+```
+
+If everything goes to plan, the command
+
+``` r
+library("jrOOP")
+```
+
+should run in the console window without raising any errors or warnings.
+
+## Advanced Graphics with **ggplot2**
+
+Run the following lines of code
+
+``` r
+install.packages("drat")
+drat::addRepo("jr-packages")
+install.packages("jrGgplot2", dependencies = TRUE)
+```
+
+If everything goes to plan, the command
+
+``` r
+library("jrGgplot2")
+```
+
+should run in the console window without raising any errors or warnings.
+
+## Statistical Modelling in R
+
+Run the following lines of code
+
+``` r
+install.packages("drat")
+drat::addRepo("jr-packages")
+install.packages("jrModelling", dependencies = TRUE)
+```
+
+If everything goes to plan, the command
+
+``` r
+library("jrModelling")
+```
+
+should run in the console window without raising any errors or warnings.
+
+## Automated Reporting in R
+
+Run the following lines of code
+
+``` r
+install.packages("drat")
+drat::addRepo("jr-packages")
+install.packages("jrAutomate", dependencies = TRUE)
+```
+
+If everything goes to plan, the command
+
+``` r
+library("jrAutomate")
+```
+
+should run in the console window without raising any errors or warnings.
+
+## Introduction to the Tidyverse
+
+Run the following lines of code
+
+``` r
+install.packages("drat")
+drat::addRepo("jr-packages")
+install.packages("jrTidyverse", dependencies = TRUE)
+```
+
+If everything goes to plan, the command
+
+``` r
+library("jrTidyverse")
 ```
 
 should run in the console window without raising any errors or warnings.
