@@ -15,3 +15,4 @@ contact.
 
   - [Introduction to Python](python/)
   - [Python and Tensorflow](tensorflow/)
+  - [Visualisation with python](python-visualisation/)
