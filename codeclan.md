@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CodeClan
+title: Learning R with Jumping Rivers @ CodeClan
 output:
   md_document:
     variant: gfm
@@ -42,7 +42,7 @@ Each course uses a large number of R packages that should (if possible)
 be installed before the course. After installing R & RStudio, open
 RStudio and in the **console** window
 
-![](../graphics/rstudio.png)
+![](graphics/rstudio.png)
 
 Run the following lines of code
 
@@ -53,7 +53,9 @@ drat::addRepo("jr-packages")
 
 Depending on which codeclan course you are attending, you will need a
 different course package. Please scroll to the correct course and follow
-the instructions
+the instructions. If you’re attending more than one course, follow all
+sets of instructions\! Don’t hesitate to get in contact if something
+isn’t working
 
 ### Intro to R Programming
 
@@ -129,22 +131,6 @@ If everything goes to plan, the command
 
 ``` r
 library("jrModelling")
-```
-
-should run in the console window without raising any errors or warnings.
-
-### Machine Learning
-
-Run the following lines of code
-
-``` r
-install.packages("jrPred", dependencies = TRUE)
-```
-
-If everything goes to plan, the command
-
-``` r
-library("jrPred")
 ```
 
 should run in the console window without raising any errors or warnings.
