@@ -37,7 +37,7 @@ more than happy to sort issues on the day.
 On the day, we do have a cloud fall back, but we’ve found it better for
 participants if you have the software installed on your laptop.
 
-### Introduction to R
+### Introduction to R & the Tidyverse
 
 ``` r
 install.packages("jrIntroduction")
@@ -51,33 +51,41 @@ library("jrIntroduction")
 
 should give no errors.
 
-### Introduction to the Tidyverse
+<!-- ### Introduction to the Tidyverse -->
 
-``` r
-install.packages("jrTidyverse")
-```
+<!-- ```{r, eval = FALSE} -->
 
-If all has gone well, then running
+<!-- install.packages("jrTidyverse") -->
 
-``` r
-library("jrTidyverse")
-```
+<!-- ``` -->
 
-should give no errors.
+<!-- If all has gone well, then running  -->
 
-### Next Steps in the Tidyverse
+<!-- ```{r, eval =FALSE} -->
 
-``` r
-install.packages("jrTidyverse2")
-```
+<!-- library("jrTidyverse") -->
 
-If all has gone well, then running
+<!-- ``` -->
 
-``` r
-library("jrTidyverse2")
-```
+<!-- should give no errors.  -->
 
-should give no errors.
+<!-- ### Next Steps in the Tidyverse  -->
+
+<!-- ```{r, eval = FALSE} -->
+
+<!-- install.packages("jrTidyverse2") -->
+
+<!-- ``` -->
+
+<!-- If all has gone well, then running  -->
+
+<!-- ```{r, eval =FALSE} -->
+
+<!-- library("jrTidyverse2") -->
+
+<!-- ``` -->
+
+<!-- should give no errors.  -->
 
 ### Advanced Graphics with R
 
