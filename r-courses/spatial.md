@@ -32,7 +32,7 @@ Please install the latest version of RStudio
 This course uses a number of R packages that should (if possible) be installed before the course. 
 After installing R & RStudio, open RStudio and in the __console__ window run the following lines of code:
 
-```{r, eval=FALSE}
+``` r
 install.packages("drat")
 drat::addRepo("jr-packages")
 install.packages("jrSpatial", dependencies = TRUE)
@@ -40,7 +40,7 @@ install.packages("jrSpatial", dependencies = TRUE)
 
 If everything goes to plan, the command
 
-```{r, message=FALSE}
+``` r
 library("jrSpatial")
 ```
 
