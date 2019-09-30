@@ -43,6 +43,7 @@ If everything goes to plan, the command
 ```{r, message=FALSE}
 library("jrSpatial")
 ```
+
 should run in the console window without raising any errors or warnings.
 -----
 
