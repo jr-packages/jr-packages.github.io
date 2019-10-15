@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Introduction to the tidyverse
+title: Mastering the tidyverse
 output:
   md_document:
     variant: gfm
