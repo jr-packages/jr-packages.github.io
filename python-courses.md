@@ -16,4 +16,4 @@ contact.
   - [Introduction to Python](python/)
   - [Python and Tensorflow](tensorflow/)
   - [Visualisation with python](python-visualisation/)
-  - [Machine Learning with python](pyton-ml/)
+  - [Machine Learning with python](python-ml/)
