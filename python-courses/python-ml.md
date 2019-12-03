@@ -54,7 +54,9 @@ If you don’t get any errors Python has been properly installed.
       - Linux - Terminal
 2.  In the command line, run the lines of code:
 
-`pip install jrpyml` `pip install jrpyvisualisation`
+`pip install jrpyml`
+
+`pip install jrpyvisualisation`
 
 3.  Open your IDE of choice and run the lines of code:
 
