@@ -21,8 +21,8 @@ This course assumes you have the anaconda distribution of python. If you don't, 
 `pip install jrpyvisualisation`
 
 3. Open your IDE of choice and run the lines of code:    
-```{python, eval = FALSE}
-import jrpyvisualisation 
-```
+    ```{python, eval = FALSE}
+    import jrpyvisualisation 
+    ```
 
 If you don't get any errors the package has been properly installed.
