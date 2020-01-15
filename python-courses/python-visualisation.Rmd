@@ -17,11 +17,10 @@ This course assumes you have the anaconda distribution of python. If you don't, 
     * Windows - Search for the Command prompt 
     * Linux - Terminal
 
-2. In the command line, run the lines of code:
-
+2. In the command line, run the lines of code:    
 `pip install jrpyvisualisation`
 
-3. Open your IDE of choice and run the lines of code:
+3. Open your IDE of choice and run the lines of code:    
 ```{python, eval = FALSE}
 import jrpyvisualisation 
 ```
