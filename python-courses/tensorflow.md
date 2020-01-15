@@ -13,20 +13,19 @@ Otherwise, all you need is the course package:
 
 1)  On whatever operating system you are on open the command line.
     Beneath are some clues as to where you might find these
+    
       - Mac - Terminal application
       - Windows - Search for the Command prompt
       - Linux - Terminal
-2)  In the command line, run the lines of code:
 
-`pip install jrpytensorflow`
+2)  In the command line, run the lines of code:  
+    `pip install jrpytensorflow`
 
 3)  Open your IDE of choice and run the lines of code:
-
-<!-- end list -->
-
-``` python
-import jrpytensorflow
-```
+    
+    ``` python
+    import jrpytensorflow
+    ```
 
 If you don’t get any errors the package has been properly installed. If
 you do, please contact one of our team so we can attempt to sort it

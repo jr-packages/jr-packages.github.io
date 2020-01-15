@@ -22,11 +22,9 @@ Otherwise, all you need is the course package:
     `pip install jrpyvisualisation`
 
 3.  Open your IDE of choice and run the lines of code:
-
-<!-- end list -->
-
-``` python
-import jrpyvisualisation 
-```
+    
+    ``` python
+    import jrpyvisualisation 
+    ```
 
 If you don’t get any errors the package has been properly installed.
