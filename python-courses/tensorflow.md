@@ -1,35 +1,33 @@
 ---
 layout: page
-title: Python and tensorflow
+title: Python and TensorFlow
 output:
   md_document:
     variant: gfm
     preserve_yaml: true
 ---
 
-Please bring a laptop with tensorflow v1.4.0 or later installed. For
-details see:
+This course assumes you have the anaconda distribution of python. If you
+don’t, see the Introduction to python course page for instructions.
+Otherwise, all you need is the course package:
 
-<https://www.tensorflow.org/install/>
+1.  On whatever operating system you are on open the command line.
+    Beneath are some clues as to where you might find these
+      - Mac - Terminal application
+      - Windows - Search for the Command prompt
+      - Linux - Terminal
+2.  In the command line, run the lines of code:
 
-Installation is straightforward under Windows, MacOS and Linux. However
-it can’t be installed on some older laptops (i.e. those with 32 bit
-CPUs).
+`pip install jrpytensorflow`
 
-Only the simple installation for use with Python and a CPU is needed.
-You don’t need to install GPU support.
+3.  Open your IDE of choice and run the lines of code:
 
-The examples in the course will work with either Python 2 or 3. However,
-on some operating systems, tensorflow installation requires a recent
-version of Python. In particular Windows requires Python 3. See the
-installation instructions for more details.
+<!-- end list -->
 
-You should also have access to the following python packages:
+``` python
+import jrpytensorflow
+```
 
-  - Keras (we’ll be used in the standalone package rather than the
-    library included within tensorflow)
-  - Jupyter
-  - numpy
-  - matplotlib
-  - sklearn
-  - h5py
+If you don’t get any errors the package has been properly installed. If
+you do, please contact one of our team so we can attempt to sort it
+before the start of the course.
