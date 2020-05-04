@@ -28,5 +28,6 @@ instructions
 4.  Sign in to your e-mail and complete the pre-course typeform sent to
     you by your trainer.
 
-That’s it\! If you have any problems get in touch with
-<theo@jumpingrivers.com> and we’ll get back to you ASAP.
+That’s it\! You should now be ready to start the course. If you have any
+problems get in touch with <theo@jumpingrivers.com> and we’ll get back
+to you ASAP.
