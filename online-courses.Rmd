@@ -1,0 +1,18 @@
+---
+layout: page
+title: Online training set-up
+output:
+  md_document:
+    variant: gfm
+    preserve_yaml: true
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r echo=FALSE}
+source("R/functions.R")
+```
+
+If you are attending one of our online training courses then your trainer will
+be in contact via email prior to the course beginning. Any prerequisites will
+be set out in this correspondence.
